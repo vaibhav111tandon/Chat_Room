@@ -62,3 +62,7 @@ body{
 	width: 10%;
 	cursor: pointer;
 }
+#typing-message{
+	color:gray;
+	text-align: left;
+}
